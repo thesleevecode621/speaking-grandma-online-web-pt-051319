@@ -19,3 +19,5 @@ def speak_to_grandma
    puts 'HUH?! SPEAK UP, SONNY!'
    elsif speak == "hi"
    puts 'HUH?! SPEAK UP, SONNY!'
+ else 
+   puts 
